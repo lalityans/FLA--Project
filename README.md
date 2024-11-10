@@ -9,6 +9,7 @@ Objectives :
 To design and implement a Turing Machine that correctly identifies and accepts strings that are odd palindromes.
 To demonstrate the use of states, transitions, and logic within a Turing Machine framework to perform string recognition.
 To handle various edge cases, including single-character strings and nested palindrome structures.
+
 Features :
 Comprehensive State Design: Detailed states and transitions have been developed to ensure the accurate recognition of odd palindromes.
 Efficient Operations: Optimized logic minimizes unnecessary computations, making the Turing Machine efficient even for large input strings.
@@ -28,6 +29,7 @@ The author has played a pivotal role in developing the Turing Machine, including
 
 State and Transition Design: Careful structuring of states and precise transitions to track palindrome recognition progress.
 Logic Implementation: Robust logic to ensure correct comparisons and state transitions.
+
 Optimization: Enhanced computational efficiency by minimizing unnecessary steps and optimizing state transitions.
 Testing and Validation: Rigorous testing to validate machine behavior and ensure reliability.
 Documentation: Detailed explanations of the design and logic, making the project accessible for learning and application.
